@@ -1,6 +1,8 @@
 ![ExpressionEvaluator Icon](https://github.com/codingseb/ExpressionEvaluator/blob/master/Icon.png?raw=true "ExpressionEvaluator A Simple Math and Pseudo C# Expression Evaluator in One C# File") 
 # ExpressionEvaluator
 
+中文教程：https://riptutorial.com/codingseb-expression-evaluator/learn/100002/simple-expressions
+
 | :warning: For now, I don't have time to maintain this repository. So if you have PR to fix some bugs. I'll be happy to review and merge it. Otherwise, I will no longer actively develop ExpressionEvaluator. If the current state of the lib do not suite your needs I suggest you look the [list of great alternative projects](#similar-projects) below.
 | --- |
 
